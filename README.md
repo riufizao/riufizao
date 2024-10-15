@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riufizao
 - 👀 I’m interested in web/app dev, relational DB & NoSQL
-- 🌱 I’m currently learning Flutter & Node
+- 🌱 I’m currently dev in Flutter, Node & Java
 - 📫 How to reach me: riufizao@gmail.com
 
 <!---
